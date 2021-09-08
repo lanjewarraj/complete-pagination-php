@@ -1,1 +1,1 @@
-# complete-pagination-php
+# complete-pagination-php-mysql
